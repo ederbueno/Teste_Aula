@@ -1,6 +1,6 @@
 class Teste_Aula {
 
-    Function(){
-
-    }
+  fun main(){
+      val listaAlunos = arrayListOf("João","Maria","Pedro","Marta");
+  }
 }
